@@ -1,6 +1,7 @@
 # universal-data-management
 Universal data management library (example application use) for Node.JS
-   To be ported as a package for NPM if proven sucessful 
+
+To be ported as a package for NPM if proven sucessful 
 
 Experimental universal data readout (and in most cases manipulation)
 
